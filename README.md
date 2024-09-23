@@ -58,4 +58,6 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 ## Certification
 ### Machine Learning Specialization
 1. Supervised Machine Learning: Regression and Classification
-2. 
+	[![ml-1](assets/ml-1.png)](https://www.coursera.org/account/accomplishments/verify/3Y9TQTRSDWUD)
+2. Advanced Learning Algorithms
+	[![ml-2](assets/ml-2.png)](https://www.coursera.org/account/accomplishments/verify/6H3T4L29269M)
