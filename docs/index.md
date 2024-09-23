@@ -1,7 +1,7 @@
 # About Me
 I am a Robotics and Automation Engineer from Worcester Polytechnic Institute(Graduation in May 2024) with industry experience in Product Ideation to Market Ready since 2018 in field of Embedded Systems and Automation Systems.
 
-![Me](assets/profile.jpg)
+![Me](../assets/profile.jpg)
 
 # Robotics Engineer and Product Developer
 
@@ -58,6 +58,6 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 ## Certification
 ### Machine Learning Specialization
 1. Supervised Machine Learning: Regression and Classification
-	[![ml-1](assets/ml-1.png)](https://www.coursera.org/account/accomplishments/verify/3Y9TQTRSDWUD)
+	[![ml-1](../assets/ml-1.png)](https://www.coursera.org/account/accomplishments/verify/3Y9TQTRSDWUD)
 2. Advanced Learning Algorithms
-	[![ml-2](assets/ml-2.png)](https://www.coursera.org/account/accomplishments/verify/6H3T4L29269M)
+	[![ml-2](../assets/ml-2.png)](https://www.coursera.org/account/accomplishments/verify/6H3T4L29269M)
