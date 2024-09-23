@@ -1,7 +1,7 @@
 # About Me
 I am a Robotics and Automation Engineer from Worcester Polytechnic Institute(Graduation in May 2024) with industry experience in Product Ideation to Market Ready since 2018 in field of Embedded Systems and Automation Systems.
 
-![Me](../assets/profile.jpg)
+![[profile.jpg]]
 
 # Robotics Engineer and Product Developer
 
@@ -9,8 +9,10 @@ I am a Robotics and Automation Engineer from Worcester Polytechnic Institute(Gra
 > **Degree**: Masters in Robotics and Automation Engineering
 
 I am a Graduate in Robotics and Automation Engineering from Worcester Polytechnic Institute with an undergraduate in Electrical Engineering from Pandit Deendayal Energy University (formerly Pandit Deendayal Petroleum University). My research interest lies in the areas of Embedded Systems, Control Systems, Robot Localization, Motion Planning and Reinforcement Learning.  
+
 I am currently working on Sensor-Fusion of IMU, Monocular Camera and LIDAR (Visual Inertial LIDAR Odometry). I have experience in Camera Calibration, and Visual SLAM. I am actively looking for full time opportunities.  
 During my masters, I worked on a fully funded and paid project with the Executive Director of Academic and Research Computing, Mr. Siamak Najafi at WPI to develop a platform to create a mobile robot platform for create easy and autonomous 3D Scans of environment for visualizing and virtual touring.  
+
 Currently, I am working at DEKA Research and Development as a Controls Systems Engineering Intern. My responsibilities includes robust camera calibration pipeline, developing Controls Algorithm for developing Neural Nets using Supervised Learning and using computer vision based manufacturing detect testing algorithms. In my spare time I like to workout at Gym, work on automation projects, read non-fiction and watch Sitcoms!
 
 # Professional Experience
@@ -67,10 +69,10 @@ Deployed, Tested and Analyzed innovative SLAM technologies, including LIMO, LVI-
 - Secured **$10,000** in funding from **Worcester Polytechnic Institute** to develop an advanced robotics mobile platform for 3D scanning and reconstruction, significantly enhancing accessibility and engagement.
 # Certification
 ## Machine Learning Specialization
-1. Supervised Machine Learning: Regression and Classification
-	[![ml-1](../assets/ml-1.png)](https://www.coursera.org/account/accomplishments/verify/3Y9TQTRSDWUD)
-2. Advanced Learning Algorithms
-	[![ml-2](../assets/ml-2.png)](https://www.coursera.org/account/accomplishments/verify/6H3T4L29269M)
+1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/3Y9TQTRSDWUD)
+	![[ml-1.png]]
+2. [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/6H3T4L29269M)
+	![[ml-2.png]]
 
 # Contact
 Feel free to reach out to discuss any possible job opportinities, any fun project to collaborate or just ping me if you want to form a new connection.
