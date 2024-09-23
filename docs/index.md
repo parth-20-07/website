@@ -45,6 +45,11 @@ Developed and deployed a decentralized collaborative SLAM system for Homogenous 
 ## Advanced SLAM Algorithms Implementation and Analysis, *C++, Python, ROS, Gazebo* 
 *Sept’23 – Dec’23*
 Deployed, Tested and Analyzed innovative SLAM technologies, including LIMO, LVI-SAM, LIO-SAM, VINS-MONO, Faster-LIO, LOAM, and EMV-LIO, to benchmark their performance and finding key metrics such as accuracy, environment layout, and robustness under various conditions while critically analyzing and adapting these frameworks to enhance their functionality and performance.
+
+# Projects
+
+- [Snake Game Using Reinforcement Learning](https://github.com/parth-20-07/Snake-Game-using-Reinforcement-Learning)
+- [[IMU Sensor Fusion for Attitude Estimation]]
 # Education
 ## M.S. Robotics & Automation Engineering | GPA 3.89
 *Worcester Polytechnic Institute, Worcester, MA*
