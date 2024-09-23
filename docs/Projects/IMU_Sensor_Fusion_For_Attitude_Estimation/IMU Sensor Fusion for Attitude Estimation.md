@@ -1,3 +1,5 @@
+# IMU Sensor Fusion for Attitude Estimation
+
 ![[s1.png]]
 ![[s2.png]]
 ![[s3.png]]
@@ -7,7 +9,9 @@
 
 
 > Developed at: Worcester Polytechnic Institute
+
 > Project date: December, 2023
+
 > GitHub URL: [parth-20-07/Sensor-Fusion-and-Attitude-Estimation](parth-20-07/Sensor-Fusion-and-Attitude-Estimation)
 
 # Brief Introduction on Project
