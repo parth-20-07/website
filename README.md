@@ -15,4 +15,16 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 
 # Resume
 
-## Professional E
+## Professional Experience
+### Control Systems Engineer, *DEKA Research and Development*
+- Improved an analytical closed-loop insulin control system by integrating multi-threading capabilities in C++ for machine learning model training, after adapting the system for Linux compatibility. This enhancement achieved a significant 96.7% reduction in runtime.
+- Developed PLC systems cabinets with communication protocols like Ethernet, USB, RS-232, and RS-485 for an automated assembly line aimed at Quality Assurance for biomedical devices which improved quality identification accuracy by 18% and reduced part rejection cost by 16% per unit.
+- Developed a Simulator for Type 1 Diabetic Patients to model meal-insulin response essential for developing a controller-based insulin pump using ANSI C. Ensured cross-platform compatibility, conducted unit testing, and improved data collection speeds by 840% and reduced research cycle time by 98.6%.
+- Developed C++/ROS based Robust and Self Correcting tightly coupled LIDAR, Vision and IMU Based Algorithm for Autonomous Simultaneous Localization and Mapping (SLAM) for x86 Architecture with improved algorithm performance by CPU Load Balancing using Parallel Processing on Frame Data, reducing processing time by 23%
+### Computational Scientist, *Worcester Polytechnic Institute*
+
+### Augmented Reality Developer
+
+### Embedded Systems Engineer
+
+### Embedded Systems Engineer, *Dash Dot Robotics*
