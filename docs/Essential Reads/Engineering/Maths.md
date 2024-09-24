@@ -1,4 +1,6 @@
+# Mathematics
 # Probability
+
 - [ ] Relearn the basics:
 	- [ ] How to Prove It by Velleman
 	- [ ] How to Think Like a Mathematician by Houston
