@@ -1,9 +1,5 @@
 # Tips
 
-**Table of Contents**
-
----
-
 ## Braces {} for initialization
 
 You can define a variable in 2 formats:
@@ -43,9 +39,5 @@ for (<data_type> <variable_name>:<list_name>)    {        //Use <variable_name> 
 ```
 
 Another option is to use `std::for_each().` It provides you with control over the indexes.
-
----
-
----
 
 ## Resources

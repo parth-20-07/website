@@ -1,8 +1,5 @@
 # Multithreading
 
-**Table of Contents**
-
-# Notes
 
 ## Concurrency
 
@@ -82,20 +79,13 @@ private:
 - `std::lock_guard` is a new way of holding mutex as it self-releases when you are out of scope. This helps against accidentally not releasing the mutex when the thread scope is finished.
 - `std::conditional_variable` can be used to introduce synchronization between threads.
 
-# Resources
+## Resources
 
-[Concurrency support library (since C++11) - cppreference.com](https://en.cppreference.com/w/cpp/thread)
-
-[std::condition_variable - cppreference.com](https://en.cppreference.com/w/cpp/thread/condition_variable)
-
-[C++ Multithreading, the simple way](https://medium.com/codex/c-multithreading-the-simple-way-95aa1f7304a2)
-
-[Multithreading in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/multithreading-in-cpp/)
-
-[When to use multithreading in C++?](https://stackoverflow.com/questions/22548759/when-to-use-multithreading-in-c)
-
-[C++ Advanced Multithreading Guide - Mutexes, Asyncs, Futures](https://www.srcmake.com/home/cpp-advanced-multithreading)
-
-[A tutorial on modern multithreading and concurrency in C++](https://www.educative.io/blog/modern-multithreading-and-concurrency-in-cpp)
-
-[An Introduction to Multithreading in C++20 - Anthony Williams - CppCon 2022](https://youtu.be/A7sVFJLJM-A?si=iiRbhIDXTd1PGO92)
+- [Concurrency support library (since C++11) - cppreference.com](https://en.cppreference.com/w/cpp/thread)
+- [std::condition_variable - cppreference.com](https://en.cppreference.com/w/cpp/thread/condition_variable)
+- [C++ Multithreading, the simple way](https://medium.com/codex/c-multithreading-the-simple-way-95aa1f7304a2)
+- [Multithreading in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/multithreading-in-cpp/)
+- [When to use multithreading in C++?](https://stackoverflow.com/questions/22548759/when-to-use-multithreading-in-c)
+- [C++ Advanced Multithreading Guide - Mutexes, Asyncs, Futures](https://www.srcmake.com/home/cpp-advanced-multithreading)
+- [A tutorial on modern multithreading and concurrency in C++](https://www.educative.io/blog/modern-multithreading-and-concurrency-in-cpp)
+- [An Introduction to Multithreading in C++20 - Anthony Williams - CppCon 2022](https://youtu.be/A7sVFJLJM-A?si=iiRbhIDXTd1PGO92)

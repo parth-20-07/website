@@ -1,7 +1,5 @@
 # Function Overloading
 
-**Table of Contents**
-
 ## Notes
 
 Function overloading is a feature of C++ where you can have multiple functions with same name performing different functions or taking/returning different parameters. The compiler can choose which function to call based on the type of input provided to the function.

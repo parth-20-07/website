@@ -1,7 +1,5 @@
 # Makefile
 
-**Table of Contents**
-
 ## About
 
 The purpose of Makefile is to build the code for you. This helps you to avoid making errors in compiling code every time you need to process a file.

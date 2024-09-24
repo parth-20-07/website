@@ -1,6 +1,5 @@
 # Debugging
 
-**Table of Contents**
 
 ## Compiler Based Debugging (G++)
 

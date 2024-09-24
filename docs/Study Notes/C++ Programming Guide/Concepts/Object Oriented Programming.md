@@ -1,6 +1,5 @@
 # Object Oriented Programming
 
-**Table of Contents**
 
 ## Basic Terminology
 
@@ -236,10 +235,6 @@ The class electric cars now have unique features despite retaining the attribute
 
 ![Single-Inheritance.png](Single-Inheritance.png)
 
-![https://www.notion.soSingle-Inheritance.png](https://www.notion.soSingle-Inheritance.png)
-
-Single Inheritance
-
 ```cpp
 //Base Classclass A
 { public void fooA() { //TO DO: }}//Derived Classclass B : A
@@ -249,10 +244,6 @@ Single Inheritance
 ### Multi-level Inheritance
 
 ![Multilevel-Inheritance.png](Multilevel-Inheritance.png)
-
-![https://www.notion.soMultilevel-Inheritance.png](https://www.notion.soMultilevel-Inheritance.png)
-
-Multilevel Inheritance
 
 ```cpp
 //Base Classclass A
@@ -265,10 +256,6 @@ Multilevel Inheritance
 
 ![Multiple-Inheritance.png](Multiple-Inheritance.png)
 
-![https://www.notion.soMultiple-Inheritance.png](https://www.notion.soMultiple-Inheritance.png)
-
-Multiple Inheritance
-
 ```cpp
 //Base Classclass A
 { public void fooA() { //TO DO: }}//Base Classclass B
@@ -279,10 +266,6 @@ Multiple Inheritance
 ### Multipath Inheritance
 
 ![Multipath-Inheritance.png](Multipath-Inheritance.png)
-
-![https://www.notion.soMultipath-Inheritance.png](https://www.notion.soMultipath-Inheritance.png)
-
-Multipath Inheritance
 
 ```cpp
 //Base Classclass A
@@ -295,10 +278,6 @@ Multipath Inheritance
 ### Hierarchical Inheritance
 
 ![Hierarchical-Inheritance.png](Hierarchical-Inheritance.png)
-
-![https://www.notion.soHierarchical-Inheritance.png](https://www.notion.soHierarchical-Inheritance.png)
-
-Hierarchical Inheritance
 
 ```cpp
 //Base Classclass A
@@ -314,10 +293,6 @@ Hierarchical Inheritance
 ### Hybrid Inheritance
 
 ![Hybrid-Inheritance.png](Hybrid-Inheritance.png)
-
-![https://www.notion.soHybrid-Inheritance.png](https://www.notion.soHybrid-Inheritance.png)
-
-Hybrid Inheritance
 
 ```cpp
 //Base Classclass A
@@ -444,7 +419,7 @@ As seen here, the pointer is passed to be an object which allows you to modify t
 
 ⚠️ *Warning: The `new` keyword might be new (pun intended) for you. You can look into it further by clicking here*: 
 
-[`new` keyword](new%20keyword%20659b6ab5fe7a42df94a953bf45ccafb9.md)
+[`new` keyword](new.md)
 
 ❗ When working with inherited classes, the correct format is:
 
@@ -466,18 +441,11 @@ If you are making a class for a header file that can be accessed by someone else
 
 # Resources
 
-[Types of Inheritance in C++ Explained With Examples | Simplilearn](https://www.simplilearn.com/tutorials/cpp-tutorial/types-of-inheritance-in-cpp)
-
-[Can I access private members from outside the class without using friends?](https://stackoverflow.com/questions/424104/can-i-access-private-members-from-outside-the-class-without-using-friends)
-
-[Can I access private members from outside the class without using friends?](https://stackoverflow.com/questions/424104/can-i-access-private-members-from-outside-the-class-without-using-friends)
-
-[reinterpret_cast conversion - cppreference.com](https://en.cppreference.com/w/cpp/language/reinterpret_cast)
-
-[reinterpret_cast in C++ | Type Casting operators - GeeksforGeeks](https://www.geeksforgeeks.org/reinterpret_cast-in-c-type-casting-operators/)
-
-[Friend declaration - cppreference.com](https://en.cppreference.com/w/cpp/language/friend)
-
-[Friend Class and Function in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/friend-class-function-cpp/)
-
-[Understanding Inheritance and Different Types of Inheritance](https://www.scholarhat.com/tutorial/oops/understanding-inheritance-and-different-types-of-inheritance)
+- [Types of Inheritance in C++ Explained With Examples | Simplilearn](https://www.simplilearn.com/tutorials/cpp-tutorial/types-of-inheritance-in-cpp)
+- [Can I access private members from outside the class without using friends?](https://stackoverflow.com/questions/424104/can-i-access-private-members-from-outside-the-class-without-using-friends)
+- [Can I access private members from outside the class without using friends?](https://stackoverflow.com/questions/424104/can-i-access-private-members-from-outside-the-class-without-using-friends)
+- [reinterpret_cast conversion - cppreference.com](https://en.cppreference.com/w/cpp/language/reinterpret_cast)
+- [reinterpret_cast in C++ | Type Casting operators - GeeksforGeeks](https://www.geeksforgeeks.org/reinterpret_cast-in-c-type-casting-operators/)
+- [Friend declaration - cppreference.com](https://en.cppreference.com/w/cpp/language/friend)
+- [Friend Class and Function in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/friend-class-function-cpp/)
+- [Understanding Inheritance and Different Types of Inheritance](https://www.scholarhat.com/tutorial/oops/understanding-inheritance-and-different-types-of-inheritance)

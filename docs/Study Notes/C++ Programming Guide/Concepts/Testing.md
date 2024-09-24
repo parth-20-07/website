@@ -1,7 +1,5 @@
 # Testing
 
-**Table of Contents**
-
 ## Types of Testing
 
 ### Automated Testing

@@ -1,7 +1,5 @@
 # new keyword
 
-**Table of Contents**
-
 ## Notes
 
 The `new` keyword is C++ equivalent of `malloc()` from C along with the added benefit of calling the constructor when used with a class. Using new allows you to allocate memory on Heap.
