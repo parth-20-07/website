@@ -1,7 +1,9 @@
 # Meal Simulation Model of Glucose - Insulin System
 
 >Created: January 26, 2024 11:35 AM
+
 >Paper Link: https://pubmed.ncbi.nlm.nih.gov/17926672/
+
 >Status: Done
 ## Introduction
 

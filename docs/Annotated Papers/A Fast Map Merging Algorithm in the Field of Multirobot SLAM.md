@@ -1,7 +1,9 @@
 # A Fast Map Merging Algorithm in the Field of Multirobot SLAM
 
 >Created: May 22, 2024 1:01 PM
+
 >Paper Link: https://doi.org/10.1155/2013/169635
+
 >Status: In progress
 
 # **Table of Contents**
