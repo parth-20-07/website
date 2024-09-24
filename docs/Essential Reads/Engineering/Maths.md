@@ -1,5 +1,6 @@
 # Mathematics
-# Probability
+
+## Probability
 
 - [ ] Relearn the basics:
 	- [ ] How to Prove It by Velleman

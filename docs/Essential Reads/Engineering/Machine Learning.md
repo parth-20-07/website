@@ -1,8 +1,8 @@
 # ML/DL/AI
 
-# Machine Learning
+## Machine Learning
 
-## Fundamentals
+### Fundamentals
 
 - [ ] [Machine Learning Engineering - Andriy Burkov](https://a.co/d/aaZz5x8)
 - [ ] [The Hundred-Page Machine Learning Book Hard Cover ed. Edition - Andriy Burkov](https://a.co/d/9o5VjeA)
@@ -10,18 +10,18 @@
 
 ---
 
-# Deep Learning
+## Deep Learning
 
-## Fundamentals
+### Fundamentals
 
 - [ ] [Deep Learning from Scratch: Building with Python from First Principles 1st Edition - Seth Weidman](https://a.co/d/07SgPyW)
 - [ ] [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 3rd Edition - Aurélien Géron](https://a.co/d/bzLpBg6)
 
 ---
 
-# AI
+## AI
 
-## Generative AI
+### Generative AI
 
 - [ ] [Generative AI for Everyone - DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-for-everyone/?utm_source=alphasignalai.beehiiv.com&utm_medium=newsletter&utm_campaign=using-llms-to-train-robots-changes-everything)
 - [ ] Complete LLM Guide: [https://github.com/karpathy/llm.c](https://github.com/karpathy/llm.c)
