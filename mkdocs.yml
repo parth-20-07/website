@@ -1,7 +1,7 @@
 site_name: Parth Patel's Website
 
 theme:
-    name: 'material'
+    name: 'terminal'
     palette:
 
     # Light mode
