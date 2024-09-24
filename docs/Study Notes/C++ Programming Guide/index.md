@@ -3,12 +3,14 @@
 ## Essentials
 
 ### Tools
+
 - [Debugging](Debugging.md)
 - [Testing](Testing.md)
 - [Static Analysis](Static%20Analysis.md)
 - [Makefile](Makefile.md)
 
 ### Concepts
+
 - [Multithreading](Multithreading.md)
 - [Object Oriented Programming](Object%20Oriented%20Programming.md)
 - [Function Overloading](Function%20Overloading.md)
