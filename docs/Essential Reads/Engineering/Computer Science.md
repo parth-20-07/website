@@ -63,4 +63,6 @@
 - [ ] [C++ High Performance, Second Edition: Master the art of optimizing the functioning of your C++ code 2nd ed. Edition - Björn Andrist](https://a.co/d/3VeHnzn)
 ### Rust Language
 
+- [ ] [The Rust Programming Language, 2nd Edition 2nd Edition - Steve Klabnik](https://a.co/d/bZZwhQK)
+
 ### Python Language
