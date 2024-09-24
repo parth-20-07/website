@@ -3,16 +3,15 @@
 > **"You owe you! "** - Eric Thomas
 
 ---
+# Job Search
+[[Job Application Tracker]]
+
+---
 # Yearly Goals
 - [ ]  5K Run Completion
 - [x]  Reach $10k Investment
 - [x]  Reach $5k Emergency Funds
 - [ ]  Finish 12 Rules for Life
----
-# Essential Links
-- [Free for Developers](https://free-for.dev/#/)
-- [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
-- [https://github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 ---
 # Finances Tracker
 ## Monthly
@@ -29,4 +28,4 @@
 ---
 # Driving Test
 - [NH DMV PDF Handbook for Drivers in 2024](https://driving-tests.org/new-hampshire/nh-dmv-drivers-handbook-manual/)
-- [NH-DL.txt](Life%20OS%202024%20447a0df61f914d37a3eb09954263377f/NH-DL.txt)
+- [NH-DL.txt](NH-DL.txt)

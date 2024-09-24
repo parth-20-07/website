@@ -35,7 +35,7 @@
 
 ### Best Practices
 - [ ] [C++ Best Practices: 45ish Simple Rules with Specific Action Items for Better C++ (With Color Syntax Highlighting) Paperback – May 16, 2022 - Jason Turner](https://a.co/d/4NREJ6Z)
-- [ ] [Hands-On Design Patterns with C++: Solve common C++ problems with modern design patterns and build robust applications - Fedor G Pikus](https://a.co/d/8ukNEU5)
+- [ ] [Hands-On Design Patterns with C++: Solve common C++ problems with modern design patterns and build robust applications, 2nd Edition - Fedor G Pikus](https://a.co/d/gOz4IGK)
 ### Advanced Topics
 - [ ] [C++ Concurrency in Action 2nd Edition - Anthony Williams](https://a.co/d/cBMc2Q0)
 - [ ] [C++ High Performance, Second Edition: Master the art of optimizing the functioning of your C++ code 2nd ed. Edition - Björn Andrist](https://a.co/d/3VeHnzn)
