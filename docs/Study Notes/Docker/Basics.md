@@ -1,6 +1,4 @@
-# Basics
-
-**Table of Contents**
+# Docker
 
 ## Background
 
