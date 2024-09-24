@@ -6,6 +6,7 @@ I am a Robotics and Automation Engineer from Worcester Polytechnic Institute(Gra
 # Robotics Engineer and Product Developer
 
 > **Email**: [parth.pmech@gmail.com](mailto:parth.pmech@gmail.com)
+
 > **Degree**: Masters in Robotics and Automation Engineering
 
 I am a Graduate in Robotics and Automation Engineering from Worcester Polytechnic Institute with an undergraduate in Electrical Engineering from Pandit Deendayal Energy University (formerly Pandit Deendayal Petroleum University). My research interest lies in the areas of Embedded Systems, Control Systems, Robot Localization, Motion Planning and Reinforcement Learning.  
