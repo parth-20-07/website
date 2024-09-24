@@ -1,10 +1,8 @@
 # Swarm SLAM Challenges and Perspectives
 
-Created: February 20, 2024 9:38 PM
-Paper Link: https://www.frontiersin.org/articles/10.3389/frobt.2021.618268/full
-Status: Done
-
-**Table of Contents**
+>Created: February 20, 2024 9:38 PM
+>Paper Link: https://www.frontiersin.org/articles/10.3389/frobt.2021.618268/full
+>Status: Done
 
 # Annotated Paper
 

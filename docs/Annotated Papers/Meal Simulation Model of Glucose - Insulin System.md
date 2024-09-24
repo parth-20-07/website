@@ -1,11 +1,8 @@
 # Meal Simulation Model of Glucose - Insulin System
 
-Created: January 26, 2024 11:35 AM
-Paper Link: https://pubmed.ncbi.nlm.nih.gov/17926672/
-Status: Done
-
-**Table of Contents**
-
+>Created: January 26, 2024 11:35 AM
+>Paper Link: https://pubmed.ncbi.nlm.nih.gov/17926672/
+>Status: Done
 ## Introduction
 
 The paper focuses on providing Mathematical Process related to:
@@ -21,7 +18,7 @@ The paper focuses on providing Mathematical Process related to:
 
 ## Math from Paper
 
-[](https://app.diagrams.net/#G113j5YKiaKDLgyCy4NlMVUe47Istww86N)
+[Flow Diagram](https://app.diagrams.net/#G113j5YKiaKDLgyCy4NlMVUe47Istww86N)
 
 ## Citation
 

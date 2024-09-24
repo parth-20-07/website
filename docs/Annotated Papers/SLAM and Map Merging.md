@@ -1,8 +1,8 @@
 # SLAM and Map Merging
 
-Created: March 13, 2024 10:06 AM
-Paper Link: https://www.researchgate.net/profile/Luis-Bergasa/publication/237149207_Multi-robot_SLAM_and_map_merging/links/0a85e5320ca3b8fb5a000000/Multi-robot-SLAM-and-map-merging.pdf
-Status: Done
+>Created: March 13, 2024 10:06 AM
+>Paper Link: https://www.researchgate.net/profile/Luis-Bergasa/publication/237149207_Multi-robot_SLAM_and_map_merging/links/0a85e5320ca3b8fb5a000000/Multi-robot-SLAM-and-map-merging.pdf
+>Status: Done
 
 **Table of Contents**
 

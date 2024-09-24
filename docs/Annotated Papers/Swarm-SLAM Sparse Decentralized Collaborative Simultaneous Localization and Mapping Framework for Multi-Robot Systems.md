@@ -1,11 +1,9 @@
 # Swarm-SLAM Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems
 
-Created: February 20, 2024 9:41 PM
-Paper Link: https://arxiv.org/abs/2301.06230
-GitHub URL: https://github.com/MISTLab/Swarm-SLAM.git
-Status: Done
-
-**Table of Contents**
+>Created: February 20, 2024 9:41 PM
+>Paper Link: https://arxiv.org/abs/2301.06230
+>GitHub URL: https://github.com/MISTLab/Swarm-SLAM.git
+>Status: Done
 
 # Annotated Paper
 

@@ -1,7 +1,7 @@
 I read a few research papers and articles now and then. For which I often annotate the documents and I would like to share it to anyone who might need a pre-annotated paper.
 
 ## Meal Simulation Model of the Glucose-Insulin System
-**Link**: [[docs/Annotated Papers/Meal Simulation Model of Glucose - Insulin System/notes|notes]]
+**Link**: [[Meal Simulation Model of Glucose - Insulin System|Meal Simulation Model of Glucose - Insulin System]]
 ```
 @ARTICLE{4303268,
 author={Dalla Man, Chiara and Rizza, Robert A. and Cobelli, Claudio},
@@ -15,7 +15,7 @@ doi={10.1109/TBME.2007.893506}}
 ```
 
 ## Swarm-SLAM: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework
-**Link**: [[docs/Annotated Papers/Swarm-SLAM Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems/notes|notes]]
+**Link**: [[Swarm-SLAM Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems|Swarm-SLAM Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems]]
 ```
 @article{Lajoie_2024,
 title={Swarm-SLAM: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems},
@@ -32,7 +32,7 @@ month=jan, pages={475–482}}
 ```
 
 ## Swarm SLAM: Challenges and Perspectives
-**Link**: [[docs/Annotated Papers/Swarm SLAM Challenges and Perspectives/notes|notes]]
+**Link**: [[Swarm SLAM Challenges and Perspectives|Swarm SLAM Challenges and Perspectives]]
 ```
 @ARTICLE{10.3389/frobt.2021.618268,
 AUTHOR={Kegeleirs, Miquel and Grisetti, Giorgio and Birattari, Mauro},
@@ -46,7 +46,7 @@ ISSN={2296-9144}}
 ```
 
 ## SLAM and Map Merging
-**Link**: [[docs/Annotated Papers/SLAM and Map Merging/notes|notes]]
+**Link**: [[SLAM and Map Merging|SLAM and Map Merging]]
 ```
 @article{leon2009slam,
 title={SLAM and map merging},
@@ -60,7 +60,7 @@ year={2009}
 ```
 
 ## A Fast Map Merging Algorithm in the Field of Multirobot SLAM
-**Link**: [[docs/Annotated Papers/A Fast Map Merging Algorithm in the Field of Multirobot SLAM/notes|notes]]
+**Link**: [[A Fast Map Merging Algorithm in the Field of Multirobot SLAM|A Fast Map Merging Algorithm in the Field of Multirobot SLAM]]
 ```
 @Article{169635,
 AUTHOR = {Yanli Liu, Xiaoping Fan, Heng Zhang},
