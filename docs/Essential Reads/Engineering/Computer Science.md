@@ -1,4 +1,4 @@
-# Great Resources and Guides for CS
+# Computer Science and Software Development
 # Computer Science
 
 ## Fundamentals
@@ -6,7 +6,7 @@
 - [ ] [But How Do It Know? - The Basic Principles of Computers for Everyone Paperback – J Clark Scott](https://a.co/d/94jeJr8)
 - [ ] [Operating Systems: Three Easy Pieces - Remzi H Arpaci-Dusseau](https://a.co/d/iBCKd4v)
 - [ ] [OSS University](https://ossu.firebaseapp.com/#/)
-- [ ] Compiler, OS, CN, DBMS Fundamentals in 1 Hour for Placements and Internship | Core CS Resources](https://www.youtube.com/watch?v=0u66_vNiRlo)
+- [ ] [Compiler, OS, CN, DBMS Fundamentals in 1 Hour for Placements and Internship | Core CS Resources](https://www.youtube.com/watch?v=0u66_vNiRlo)
 
 ## Software Development
 
