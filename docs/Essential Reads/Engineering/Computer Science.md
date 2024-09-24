@@ -27,7 +27,7 @@
 - [ ] [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization - Kaiwan N Billimoria](https://a.co/d/bZMNorc)
 ---
 ## Embedded Software Systems
-\
+
 - [ ] [Building Embedded Linux Systems: Concepts, Techniques, Tricks, and Traps 2nd Edition - Karim Yaghmour](https://a.co/d/cJFmavR)
 - [ ] [Mastering Embedded Linux Programming - Third Edition: Create fast and reliable embedded solutions with Linux 5.4 and the Yocto Project 3.1 (Dunfell) 3rd ed. Edition - Frank Vasquez](https://a.co/d/fvIyuNr)
 --- 

@@ -1,6 +1,6 @@
 # Electronics
 
-# Classics
+## Classics
 
 - [ ] [The Art of Electrics - Paul Horowitz](https://a.co/d/624FosO)
 - [ ] [Semiconductor Physics And Devices: Basic Principles - Donald A. Neamen](https://a.co/d/fKiJbYl)
@@ -9,5 +9,6 @@
 - [ ] [Grob's Basic Electronics: 2024 Release - Mitchel Schultz](https://a.co/d/4aiBddc)
 
 ---
-# Design Guides
-- [Practical Electronics for Inventors, Fourth Edition 4th Edition - Paul Scherz](https://a.co/d/1QgWrsu) 
+## Design Guides
+
+- [ ] [Practical Electronics for Inventors, Fourth Edition 4th Edition - Paul Scherz](https://a.co/d/1QgWrsu) 
