@@ -10,7 +10,7 @@
 
 ## Build-Up
 
-![Untitled](docs/Study%20Notes/Embedded%20Systems%20Hardware%20Design%20fce1e7c43ecd4c6a834f4c4b767be5eb/PCB%20Build-up%20and%20Stack-Up%20090d39b4318f4be6aba429c006fd9f92/Untitled.png)
+![Untitled](docs/Study%20Notes/Embedded%20Systems%20Hardware/PCB%20Build-up%20and%20Stack-Up%20090d39b4318f4be6aba429c006fd9f92/Untitled.png)
 
 Build-up related to the physical construction of the board. Primary things to consider are:
 

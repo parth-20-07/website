@@ -1,8 +1,16 @@
-# CS Fundamentals
+# Computer Science
+
+## Fundamentals
 - [ ] [But How Do It Know? - The Basic Principles of Computers for Everyone Paperback – J Clark Scott](https://a.co/d/94jeJr8)
 - [ ] [Operating Systems: Three Easy Pieces - Remzi H Arpaci-Dusseau](https://a.co/d/iBCKd4v)
 - [ ] [OSS University](https://ossu.firebaseapp.com/#/)
 - [ ] Compiler, OS, CN, DBMS Fundamentals in 1 Hour for Placements and Internship | Core CS Resources](https://www.youtube.com/watch?v=0u66_vNiRlo)
+
+## Software Development
+- [ ] [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [ ] [Developer Roadmaps](https://roadmap.sh/)
+- [ ] [Free For Dev](https://free-for.dev/#/)
+- [ ] 
 
 # GPU Fundamentals
 - [ ] [Programming Massively Parallel Processors: A Hands-on Approach 4th Edition - Wen-mei W. Hwu](https://a.co/d/ahciGxm)

@@ -20,7 +20,7 @@
 
 ## Parameters
 
-![Untitled](docs/Study%20Notes/Embedded%20Systems%20Hardware%20Design%20fce1e7c43ecd4c6a834f4c4b767be5eb/PCB%20Vias%207f8bc84528d841c4aebebf2898b7fa27/Untitled.png)
+![Untitled](docs/Study%20Notes/Embedded%20Systems%20Hardware/PCB%20Vias%207f8bc84528d841c4aebebf2898b7fa27/Untitled.png)
 
 - Minimum Drill Size and Annular Ring Size are provided by the manufacturer based on their machine specifications.
 
