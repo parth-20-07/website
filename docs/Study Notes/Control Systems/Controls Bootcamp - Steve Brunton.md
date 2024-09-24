@@ -1,8 +1,6 @@
 # Controls Bootcamp - Steve Brunton
 
-**Table of Contents**:
-
-# Overview
+## Overview
 
 - Controls are of two types:
     - Passive Control: Control introduced in system due to design. Does not need additional energy to function. e.g. Truck shape introducing drag to keep it from lifting
@@ -20,7 +18,7 @@
 
 ---
 
-# Important Topics
+## Important Topics
 
 - Linear Systems
 - Stability and Eigen Values
@@ -44,12 +42,6 @@
 - Equivalent Representations of Linear Systems
 - 
 
-# Resources
+## Resources
 
-- PDF Notes:
-    
-    [https://www.notion.so](https://www.notion.so)
-    
-- Reference Playlist:
-    
-    [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+- Reference Playlist: [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
