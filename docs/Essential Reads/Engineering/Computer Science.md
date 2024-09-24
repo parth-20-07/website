@@ -2,7 +2,7 @@
 # Computer Science
 
 ## Fundamentals
-\
+
 - [ ] [But How Do It Know? - The Basic Principles of Computers for Everyone Paperback – J Clark Scott](https://a.co/d/94jeJr8)
 - [ ] [Operating Systems: Three Easy Pieces - Remzi H Arpaci-Dusseau](https://a.co/d/iBCKd4v)
 - [ ] [OSS University](https://ossu.firebaseapp.com/#/)
