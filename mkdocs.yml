@@ -7,7 +7,8 @@ theme:
       code: 
     palette:
       # Light mode
-      - scheme: light-mode-scheme
+      - media: "(prefers-color-scheme: light)"
+        scheme: light-mode-scheme
         primary: light-mode-base
         accent: light-mode-accent
         extra_css:
@@ -17,7 +18,8 @@ theme:
           name: Switch to dark mode
 
       # Dark mode
-      - scheme: dark-mode-scheme
+      - media: "(prefers-color-scheme: dark)"
+        scheme: dark-mode-scheme
         primary: dark-mode-base
         accent: dark-mode-accent
         extra_css:
