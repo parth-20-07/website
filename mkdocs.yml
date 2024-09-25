@@ -8,19 +8,19 @@ theme:
     palette:
       # Light mode
         - scheme: default
-        primary: black
-        accent: red
-        toggle:
-          icon: material/toggle-switch-off-outline
-          name: Switch to dark mode
+          primary: black
+          accent: red
+          toggle:
+            icon: material/toggle-switch-off-outline
+            name: Switch to dark mode
 
       # Dark mode
         - scheme: slate
-        primary: white
-        accent: red
-        toggle:
-          icon: material/toggle-switch
-          name: Switch to light mode
+          primary: white
+          accent: red
+          toggle:
+            icon: material/toggle-switch
+            name: Switch to light mode
 
 # Extensions
 markdown_extensions:
