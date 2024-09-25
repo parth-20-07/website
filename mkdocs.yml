@@ -8,7 +8,7 @@ theme:
     palette:
       # Light mode
       - media: "(prefers-color-scheme: light)"
-        scheme: default
+        scheme: light
         primary: custom
         accent: custom
         toggle:
@@ -19,7 +19,7 @@ theme:
 
       # Dark mode
       - media: "(prefers-color-scheme: dark)"
-        scheme: slate
+        scheme: dark
         primary: custom
         accent: custom
         toggle:

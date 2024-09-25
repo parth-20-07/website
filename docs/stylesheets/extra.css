@@ -4,10 +4,10 @@
     --md-primary-fg-color--dark:  #1C1E26;
   }
 
-  [data-md-color-scheme="slate"] {
+  [data-md-color-scheme="dark"] {
     --md-typeset-a-color:  #6BE4E6 ;
   }
 
-  [data-md-color-scheme="default"] {
+  [data-md-color-scheme="light"] {
     --md-typeset-a-color:  #59E1E3 ;
   }
