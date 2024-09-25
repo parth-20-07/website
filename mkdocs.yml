@@ -10,7 +10,7 @@ theme:
       - media: "(prefers-color-scheme: light)"
         scheme: default
         primary: custom
-        accent: red
+        accent: custom
         toggle:
           icon: material/toggle-switch-off-outline
           name: Switch to dark mode
@@ -21,7 +21,7 @@ theme:
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
         primary: custom
-        accent: red
+        accent: custom
         toggle:
           icon: material/toggle-switch
           name: Switch to light mode
