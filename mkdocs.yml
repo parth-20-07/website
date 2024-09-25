@@ -8,18 +8,22 @@ theme:
     palette:
       # Light mode
       - media: "(prefers-color-scheme: light)"
-        scheme: default
-        primary: black
-        accent: red
+        scheme: light-mode-scheme
+        primary: light-mode-base
+        accent: light-mode-accent
+        extra_css:
+          - stylesheets/extra.css
         toggle:
           icon: material/toggle-switch-off-outline
           name: Switch to dark mode
 
       # Dark mode
       - media: "(prefers-color-scheme: dark)"
-        scheme: slate
-        primary: white
-        accent: red
+        scheme: dark-mode-scheme
+        primary: dark-mode-base
+        accent: dark-mode-accent
+        extra_css:
+          - stylesheets/extra.css
         toggle:
           icon: material/toggle-switch
           name: Switch to light mode
