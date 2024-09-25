@@ -8,22 +8,22 @@ theme:
     palette:
       # Light mode
       - scheme: light-mode-scheme
-        # primary: light-mode-base
-        # accent: light-mode-accent
-        # extra_css:
-          # - stylesheets/extra.css
+        primary: light-mode-base
+        accent: light-mode-accent
+        extra_css:
+          - stylesheets/extra.css
         toggle:
-          icon: material/toggle-switch-off-outline
+          icon: material/weather-night
           name: Switch to dark mode
 
       # Dark mode
       - scheme: dark-mode-scheme
-        # primary: dark-mode-base
-        # accent: dark-mode-accent
-        # extra_css:
-          # - stylesheets/extra.css
+        primary: dark-mode-base
+        accent: dark-mode-accent
+        extra_css:
+          - stylesheets/extra.css
         toggle:
-          icon: material/toggle-switch
+          icon: material/weather-sunny
           name: Switch to light mode
 
 # Extensions
