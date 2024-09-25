@@ -2,25 +2,25 @@ site_name: Parth Patel's Website
 
 theme:
     name: 'material'
+    font: 
+      text: JetBrains Mono
+      code: 
     palette:
+      # Light mode
+        - scheme: default
+        primary: black
+        accent: red
+        toggle:
+          icon: material/toggle-switch-off-outline
+          name: Switch to dark mode
 
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: black
-      accent: red
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: white
-      accent: red
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+      # Dark mode
+        - scheme: slate
+        primary: white
+        accent: red
+        toggle:
+          icon: material/toggle-switch
+          name: Switch to light mode
 
 # Extensions
 markdown_extensions:
