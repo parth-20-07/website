@@ -9,20 +9,24 @@ theme:
       # Light mode
       - media: "(prefers-color-scheme: light)"
         scheme: default
-        primary: black
+        primary: custom
         accent: red
         toggle:
           icon: material/toggle-switch-off-outline
           name: Switch to dark mode
+        extra_css:
+          - stylesheets/extra.css
 
       # Dark mode
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
-        primary: white
+        primary: custom
         accent: red
         toggle:
           icon: material/toggle-switch
           name: Switch to light mode
+        extra_css:
+          - stylesheets/extra.css
 
 # Extensions
 markdown_extensions:

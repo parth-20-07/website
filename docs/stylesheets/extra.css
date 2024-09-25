@@ -1,29 +1,5 @@
-[data-md-color-scheme="light-mode-scheme"] {
+:root {
     --md-primary-fg-color:        #EE0F0F;
-    --md-primary-bg-color: 
-  }
-
-  [data-md-color-scheme="light-mode-base"] {
-    --md-primary-fg-color:        #EE0F0F;
-    --md-primary-bg-color: 
-  }
-
-  [data-md-color-scheme="light-mode-accent"] {
-    --md-primary-fg-color:        #EE0F0F;
-    --md-primary-bg-color: 
-  }
-
-  [data-md-color-scheme="dark-mode-scheme"] {
-    --md-primary-fg-color:        #1C1E26;
-    --md-primary-bg-color: 
-  }
-
-  [data-md-color-scheme="dark-mode-base"] {
-    --md-primary-fg-color:        #1C1E26;
-    --md-primary-bg-color: 
-  }
-
-  [data-md-color-scheme="dark-mode-accent"] {
-    --md-primary-fg-color:        #E9436D;
-    --md-primary-bg-color: 
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #1C1E26;
   }
