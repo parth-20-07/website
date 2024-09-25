@@ -12,7 +12,7 @@ theme:
         primary: custom
         accent: custom
         toggle:
-          icon: material/toggle-switch-off-outline
+          icon: material/weather-night
           name: Switch to dark mode
         extra_css:
           - stylesheets/extra.css
@@ -23,7 +23,7 @@ theme:
         primary: custom
         accent: custom
         toggle:
-          icon: material/toggle-switch
+          icon: material/weather-sunny
           name: Switch to light mode
         extra_css:
           - stylesheets/extra.css
