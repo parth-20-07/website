@@ -4,29 +4,26 @@ theme:
     name: 'material'
     font: 
       text: JetBrains Mono
-      code: 
+      code:
     palette:
-      # Light mode
-      - media: "(prefers-color-scheme: light)"
-        scheme: light
-        primary: custom
-        accent: custom
-        toggle:
-          icon: material/weather-night
-          name: Switch to dark mode
-        extra_css:
-          - stylesheets/extra.css
 
-      # Dark mode
-      - media: "(prefers-color-scheme: dark)"
-        scheme: dark
-        primary: custom
-        accent: custom
-        toggle:
-          icon: material/weather-sunny
-          name: Switch to light mode
-        extra_css:
-          - stylesheets/extra.css
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: cyan
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: white
+      accent: cyan
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 
 # Extensions
 markdown_extensions:
