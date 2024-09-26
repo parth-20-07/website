@@ -75,7 +75,7 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 
 	*Pandit Deendayal Energy University, Gujarat, India*
 - Class I - XII
-- 
+
 	*Bharatiya Vidya Bhavan's Vallabhram Mehta Public School, Gujarat, India*
 
 ## Achievements
