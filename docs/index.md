@@ -41,11 +41,13 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 
 ## Research Experience
 
-- Collaborative Simultaneous Localization and Mapping (SLAM) for Low-End Swarm Robots\
+- Collaborative Simultaneous Localization and Mapping (SLAM) for Low-End Swarm Robots
+
 	*C++, ROS, Gazebo* | *June' 24 - Aug' 24*
 	- Developed and deployed a decentralized collaborative SLAM system for Homogenous swarm robots, enhancing autonomous navigation through lightweight occupancy grid map development focusing on robot count scalability and simpler map merging with dimensional error under 2.5%.
 
 - Advanced SLAM Algorithms Implementation and Analysis
+	
 	*C++, Python, ROS, Gazebo* | *Sept’23 – Dec’23*
 	* Deployed, Tested and Analyzed innovative SLAM technologies, including LIMO, LVI-SAM, LIO-SAM, VINS-MONO, Faster-LIO, LOAM, and EMV-LIO, to benchmark their performance and finding key metrics such as accuracy, environment layout, and robustness under various conditions while critically analyzing and adapting these frameworks to enhance their functionality and performance.
 
@@ -85,5 +87,5 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 	![[ml-2.png]]
 
 ## Contact
-Feel free to reach out to discuss any possible job opportinities, any fun project to collaborate or just ping me if you want to form a new connection.
+Feel free to reach out to discuss any possible job opportunities, any fun project to collaborate or just ping me if you want to form a new connection.
 > Email: [parth.pmech@gmail.com](mailto:parth.pmech@gmail.com)
