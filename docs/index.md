@@ -41,14 +41,9 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 
 ## Research Experience
 
-- Collaborative Simultaneous Localization and Mapping (SLAM) for Low-End Swarm Robots
-
-	*C++, ROS, Gazebo* | *June' 24 - Aug' 24*
+- Collaborative Simultaneous Localization and Mapping (SLAM) for Low-End Swarm Robots | *C++, ROS, Gazebo* | *June' 24 - Aug' 24*
 	- Developed and deployed a decentralized collaborative SLAM system for Homogenous swarm robots, enhancing autonomous navigation through lightweight occupancy grid map development focusing on robot count scalability and simpler map merging with dimensional error under 2.5%.
-
-- Advanced SLAM Algorithms Implementation and Analysis
-	
-	*C++, Python, ROS, Gazebo* | *Sept’23 – Dec’23*
+- Advanced SLAM Algorithms Implementation and Analysis | *C++, Python, ROS, Gazebo* | *Sept’23 – Dec’23*
 	* Deployed, Tested and Analyzed innovative SLAM technologies, including LIMO, LVI-SAM, LIO-SAM, VINS-MONO, Faster-LIO, LOAM, and EMV-LIO, to benchmark their performance and finding key metrics such as accuracy, environment layout, and robustness under various conditions while critically analyzing and adapting these frameworks to enhance their functionality and performance.
 
 ## Projects
@@ -57,26 +52,22 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 - [[IMU Sensor Fusion for Attitude Estimation]]
 ## Education
 - M.S. Robotics & Automation Engineering | **GPA 3.89**
-
-	*Worcester Polytechnic Institute, Worcester, MA*
-	- **Foundation of Robotics:** RBE 500
-	- **Robot Controls:** RBE502
-	- **Human Robot Interaction:** RBE526
-	- **Motion Planning:** RBE 550
-	- **Soft Robotics:** RBE 530
-	- **Swarm Intelligence:** RBE 595
-	- **Robot Dynamics:** RBE501
+	- *Worcester Polytechnic Institute, Worcester, MA*
+		- **Foundation of Robotics:** RBE 500
+		- **Robot Controls:** RBE502
+		- **Human Robot Interaction:** RBE526
+		- **Motion Planning:** RBE 550
+		- **Soft Robotics:** RBE 530
+		- **Swarm Intelligence:** RBE 595
+		- **Robot Dynamics:** RBE501
 - Extended Studies
-
-	*UC San Diego Extended Studies*
-	- **Advanced Digital Systems Design:** ECE 574
-	- **Project Management:** MIS 576
+	- *UC San Diego Extended Studies*
+		- **Advanced Digital Systems Design:** ECE 574
+		- **Project Management:** MIS 576
 - B.Tech Electrical Engineering | **CGPA 9.08**
-
-	*Pandit Deendayal Energy University, Gujarat, India*
+	- *Pandit Deendayal Energy University, Gujarat, India*
 - Class I - XII
-
-	*Bharatiya Vidya Bhavan's Vallabhram Mehta Public School, Gujarat, India*
+	- *Bharatiya Vidya Bhavan's Vallabhram Mehta Public School, Gujarat, India*
 
 ## Achievements
 
