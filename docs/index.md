@@ -56,7 +56,8 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 - [Snake Game Using Reinforcement Learning](https://github.com/parth-20-07/Snake-Game-using-Reinforcement-Learning)
 - [[IMU Sensor Fusion for Attitude Estimation]]
 ## Education
-- M.S. Robotics & Automation Engineering | **GPA 3.89**\
+- M.S. Robotics & Automation Engineering | **GPA 3.89**
+
 	*Worcester Polytechnic Institute, Worcester, MA*
 	- **Foundation of Robotics:** RBE 500
 	- **Robot Controls:** RBE502
@@ -65,14 +66,16 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 	- **Soft Robotics:** RBE 530
 	- **Swarm Intelligence:** RBE 595
 	- **Robot Dynamics:** RBE501
-- Extended Studies\
+- Extended Studies
+
 	*UC San Diego Extended Studies*
 	- **Advanced Digital Systems Design:** ECE 574
 	- **Project Management:** MIS 576
+- B.Tech Electrical Engineering | **CGPA 9.08**
 
-- B.Tech Electrical Engineering | **CGPA 9.08**\
 	*Pandit Deendayal Energy University, Gujarat, India*
 - Class I - XII
+- 
 	*Bharatiya Vidya Bhavan's Vallabhram Mehta Public School, Gujarat, India*
 
 ## Achievements
