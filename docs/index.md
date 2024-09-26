@@ -11,7 +11,7 @@ I am a Robotics and Automation Engineer from Worcester Polytechnic Institute wit
 > **Degree**: Masters in Robotics and Automation Engineering
 
 I am a Graduate in Robotics and Automation Engineering from Worcester Polytechnic Institute with an undergraduate in Electrical Engineering from Pandit Deendayal Energy University (formerly Pandit Deendayal Petroleum University). My research interest lies in the areas of Embedded Systems, Control Systems, Robot Localization, Motion Planning and Reinforcement Learning.  
-
+;
 I am currently working on Sensor-Fusion of IMU, Monocular Camera and LIDAR (Visual Inertial LIDAR Odometry). I have experience in Camera Calibration, and Visual SLAM. I am actively looking for full time opportunities.
 
 During my masters, I worked on a fully funded and paid project with the Executive Director of Academic and Research Computing, Mr. Siamak Najafi at WPI to develop a platform to create a mobile robot platform for create easy and autonomous 3D Scans of environment for visualizing and virtual touring.
