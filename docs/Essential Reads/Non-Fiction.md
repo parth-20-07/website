@@ -15,7 +15,7 @@ Link: [Amazon](https://a.co/d/5WytLAJ)
 Author: Jordan Peterson
 Link: [Amazon](https://a.co/d/8OQHTlj)
 
-![[book - 12 rules for life.jpg]]
+![[docs/Essential Reads/assets/book - 12 rules for life.jpg]]
 
 ### Beyond Order
 
