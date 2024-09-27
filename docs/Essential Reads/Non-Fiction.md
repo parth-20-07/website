@@ -9,7 +9,7 @@
 Author: Ashley Vance
 Link: [Amazon](https://a.co/d/5WytLAJ)
 
-![[book - elon musk - ashley.jpg]]
+![[docs/Essential Reads/assets/book - elon musk - ashley.jpg]]
 ### 12 Rules for Life
 
 Author: Jordan Peterson
