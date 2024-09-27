@@ -7,7 +7,7 @@ Status: Next
 Type: Book, Podcast
 Genre: Self Help
 
-![41cFsyjV9OL.jpg](41cFsyjV9OL.jpg)
+![book - hell yeah or no.jpg](book%20-%20hell%20yeah%20or%20no.jpg)
 
 ## Notes
 

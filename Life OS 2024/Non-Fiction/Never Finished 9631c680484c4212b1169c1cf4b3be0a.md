@@ -8,7 +8,7 @@ Status: Not started
 Type: Audio Book, Book
 Genre: Self Help
 
-![414g1BUSPxL._SY291_BO1,204,203,200_QL40_FMwebp_.webp](414g1BUSPxL._SY291_BO1204203200_QL40_FMwebp_.webp)
+![414g1BUSPxL._SY291_BO1,204,203,200_QL40_FMwebp_.webp](book%20-%20never%20finished.webp)
 
 ## Notes
 

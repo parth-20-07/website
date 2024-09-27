@@ -5,7 +5,7 @@ Status: Next
 Type: Podcast
 Genre: Self Help
 
-![1200x630wp.png](1200x630wp.png)
+![podcast - Man whisperer.png](podcast%20-%20Man%20whisperer.png)
 
 ## Notes
 

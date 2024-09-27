@@ -1,14 +1,14 @@
 # Can’t Hurt Me
 
-Tagline: Master Your Mind and Defy the Odds
-Author: David Goggins
-Link: https://www.audible.com/pd/Cant-Hurt-Me-Audiobook/B07KKMNZCH?action_code=ASSGB149080119000H&share_location=pdp
-Score: ⭐️⭐️⭐️⭐️⭐️
-Status: Not started
-Type: Audio Book, Book
-Genre: Self Help
+>Tagline: Master Your Mind and Defy the Odds
 
-![chrome_image_Jan 5, 2023 11_36_14 PM EST.png](chrome_image_Jan_5_2023_11_36_14_PM_EST.png)
+>Author: David Goggins
+
+>Link: https://www.audible.com/pd/Cant-Hurt-Me-Audiobook/B07KKMNZCH?action_code=ASSGB149080119000H&share_location=pdp
+
+>Genre: Self Help
+
+![[book - cant hurt me.png]]
 
 ## Notes
 
