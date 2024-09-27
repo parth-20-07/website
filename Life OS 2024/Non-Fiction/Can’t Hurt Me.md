@@ -6,7 +6,7 @@
 
 >Link: https://a.co/d/6WLKcCU
 
-![[book - cant hurt me.png]]
+![[docs/Essential Reads/assets/book - cant hurt me.png]]
 
 ## Notes
 

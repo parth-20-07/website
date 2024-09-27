@@ -6,7 +6,7 @@
 
 >Link: https://a.co/d/dQf2Bil
 
-![book - hell yeah or no.jpg](book%20-%20hell%20yeah%20or%20no.jpg)
+![book - hell yeah or no.jpg](docs/Essential%20Reads/assets/book%20-%20hell%20yeah%20or%20no.jpg)
 
 ## Notes
 

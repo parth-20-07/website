@@ -58,10 +58,10 @@ plugins:
   - search
   - roamlinks
   - resize-images:
-      source-dir: assets-large
-      target-dir: assets
+      source-dir: large
+      target-dir: resized
       enable_cache: True
-      size: [800, 600]
+      size: [400, 300]
       extensions: ['.jpg', '.jpeg', '.png', '.gif', '.svg']
   - rss:
       match_path: blog/posts/.* 

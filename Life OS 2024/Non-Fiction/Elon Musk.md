@@ -7,7 +7,7 @@
 
 >Link: https://a.co/d/5WytLAJ
 
-![[book - elon musk - ashley.jpg]]
+![[docs/Essential Reads/assets/book - elon musk - ashley.jpg]]
 
 ## Notes
 

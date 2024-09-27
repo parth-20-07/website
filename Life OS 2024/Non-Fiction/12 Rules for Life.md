@@ -6,7 +6,7 @@
 
 >Link: https://a.co/d/fvNndF5
 
-![[book - 12 rules for life.jpg]]
+![[docs/Essential Reads/assets/book - 12 rules for life.jpg]]
 ## Notes
 
 - 

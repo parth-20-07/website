@@ -6,7 +6,7 @@
 
 >Link: https://a.co/d/1PKxCej
 
-![[book - beyond order.jpg]]
+![[docs/Essential Reads/assets/book - beyond order.jpg]]
 ## Notes
 
 - 

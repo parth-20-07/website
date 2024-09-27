@@ -6,7 +6,7 @@
 
 >Link: https://a.co/d/3YsnhZr
 
-![book - make time.jpg](book%20-%20make%20time.jpg)
+![book - make time.jpg](docs/Essential%20Reads/assets/book%20-%20make%20time.jpg)
 
 ## Notes
 
