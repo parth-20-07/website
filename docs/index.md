@@ -4,7 +4,7 @@
 
 I am a Robotics and Automation Engineer from Worcester Polytechnic Institute with industry experience in Embedded Product Development and specialization in Product Ideation to Market Ready since 2018.
 
-![[docs/assets/profile.jpg]]
+![[profile.jpg]]
 
 
 > **Email**: [parth.pmech@gmail.com](mailto:parth.pmech@gmail.com)
@@ -77,10 +77,9 @@ Currently, I am working at DEKA Research and Development as a Controls Systems E
 ## Certification
 ### Machine Learning Specialization
 1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/3Y9TQTRSDWUD)
-	![[docs/assets-large/ml-1.png]]
+	![[ml-1.png]]
 2. [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/6H3T4L29269M)
-	![[docs/assets-large/ml-2.png]]
-
+![[ml-2.png]]
 ## Contact
 Feel free to reach out to discuss any possible job opportunities, any fun project to collaborate or just ping me if you want to form a new connection.
 > Email: [parth.pmech@gmail.com](mailto:parth.pmech@gmail.com)

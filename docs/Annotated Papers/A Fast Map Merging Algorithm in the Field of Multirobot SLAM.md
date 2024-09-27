@@ -6,19 +6,17 @@
 
 >Status: In progress
 
-# **Table of Contents**
+## Introduction
 
-# Introduction
-
-# Outline
+## Outline
 
 ---
 
-# Annotated Paper
+## Annotated Paper
 
-[A_Fast_Map_Merging_Algorithm_in_the_Field_of_Multirobot_SLAM.pdf](A_Fast_Map_Merging_Algorithm_in_the_Field_of_Multirobot_SLAM.pdf)
+[[A_Fast_Map_Merging_Algorithm_in_the_Field_of_Multirobot_SLAM.pdf]]
 
-# Citation
+## Citation
 
 ```
 @Article{169635,

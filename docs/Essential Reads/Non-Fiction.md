@@ -9,14 +9,13 @@
 Author: Ashley Vance
 Link: [Amazon](https://a.co/d/5WytLAJ)
 
-![[docs/Essential Reads/assets/book - elon musk - ashley.jpg]]
+![[book - elon musk - ashley.jpg]]
 ### 12 Rules for Life
 
 Author: Jordan Peterson
 Link: [Amazon](https://a.co/d/8OQHTlj)
 
-![[docs/Essential Reads/assets/book - 12 rules for life.jpg]]
-
+![[book - 12 rules for life.jpg]]
 ### Beyond Order
 
 Author: Jordan Peterson
@@ -59,8 +58,7 @@ Link: [Amazon](https://a.co/d/0AqF3EW)
 Host: Andrew Huberman
 Link: [Spotify](https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P) | [Youtube Music](https://music.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW)
 
-![[podcast - andrew huberman.webp]]
-
+![[podcast - andrew huberman.jpg]]
 ### Jordan Peterson Podcast
 
 Host: Jordan Peterson

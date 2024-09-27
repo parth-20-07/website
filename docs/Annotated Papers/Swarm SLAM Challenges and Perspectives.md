@@ -6,13 +6,13 @@
 
 >Status: Done
 
-# Annotated Paper
+## Annotated Paper
 
-[Swarm_SLAM_Challenges_and_Perspectives.pdf](Swarm_SLAM_Challenges_and_Perspectives.pdf)
+[[Swarm_SLAM_Challenges_and_Perspectives.pdf]]
 
-# Math From Paper
+## Math From Paper
 
-# Citation
+## Citation
 
 ```
 @ARTICLE{10.3389/frobt.2021.618268,

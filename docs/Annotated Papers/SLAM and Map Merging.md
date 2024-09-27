@@ -117,7 +117,7 @@ A performance comparision is done between all three algorithms. Following result
 
 ## Anotated Paper
 
-[SLAM_and_Map_Merging.pdf](SLAM_and_Map_Merging.pdf)
+[[SLAM_and_Map_Merging.pdf]]
 
 ## Citation
 

@@ -8,13 +8,13 @@
 
 >Status: Done
 
-# Annotated Paper
+## Annotated Paper
 
-[Swarm-SLAM_Sparse_Decentralized_Collaborative_Simultaneous_Localization_and_Mapping_Framework_for_Multi-Robot_Systems.pdf](Swarm-SLAM_Sparse_Decentralized_Collaborative_Simultaneous_Localization_and_Mapping_Framework_for_Multi-Robot_Systems.pdf)
+[[Swarm-SLAM_Sparse_Decentralized_Collaborative_Simultaneous_Localization_and_Mapping_Framework_for_Multi-Robot_Systems.pdf]]
 
-# Math From Paper
+## Math From Paper
 
-# Citation
+## Citation
 
 ```
 @article{Lajoie_2024,

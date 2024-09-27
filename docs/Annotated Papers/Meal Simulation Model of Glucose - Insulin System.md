@@ -16,7 +16,7 @@ The paper focuses on providing Mathematical Process related to:
 
 ## Anotated Paper
 
-[Meal_Simulation_Model_of_the_Glucose-Insulin_System.pdf](Meal_Simulation_Model_of_the_Glucose-Insulin_System.pdf)
+[[Meal_Simulation_Model_of_the_Glucose-Insulin_System.pdf]]
 
 ## Math from Paper
 
