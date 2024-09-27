@@ -45,4 +45,18 @@ Link: [Amazon](https://a.co/d/0AqF3EW)
 Host: Andrew Huberman
 Link: [Spotify](https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P) | [Youtube Music](https://music.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW)
 
-![[podcast- an]]
+![[podcast - andrew huberman.webp]]
+
+### Jordan Peterson Podcast
+
+Host: Jordan Peterson
+Link: [Spotify](https://open.spotify.com/show/1Zw2DKjelPnuEYpydFlhgN?si=873f489caf5f47d7) | [Youtube Music](https://music.youtube.com/playlist?list=PL22J3VaeABQAbEeT04p5VmAOBmqw2kmxj&si=0Anh3s4zsF5LIVEK)
+
+![[podcast - jordan peterson.jpg]]
+
+### Joe Rogan Experience
+
+Host: Joe Rogan
+Link: [Spotify](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk?si=4b19990c30934819) | [Youtube Music](https://music.youtube.com/playlist?list=PLk1Sqn_f33KuWf3tW9BBe_4TP7x8l0m3T&si=fLllAfrSSoevfw5O)
+
+![[podcast - joe rogan.jpg]]
