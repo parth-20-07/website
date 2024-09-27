@@ -1,0 +1,14 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^parth-20-07.net [NC]
+RewriteRule ^(.*)$ https://www.parth-20-07.net/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^https://www.parth-20-07.net [NC]
+RewriteRule ^(.*)$ https://parth-20-07.net/$1 [L,R=301]
+RewriteBase /
+RewriteRule ^index.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+# END WordPres
