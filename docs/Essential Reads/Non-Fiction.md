@@ -3,6 +3,13 @@
 
 ## Books
 
+
+### Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future
+
+Author: Ashley Vance
+Link: [Amazon](https://a.co/d/5WytLAJ)
+
+![[book - elon musk - ashley.jpg]]
 ### 12 Rules for Life
 
 Author: Jordan Peterson
