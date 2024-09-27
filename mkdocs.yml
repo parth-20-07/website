@@ -57,6 +57,12 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - resize-images:
+      source-dir: assets-large
+      target-dir: assets
+      enable_cache: True
+      size: [800, 600]
+      extensions: ['.jpg', '.jpeg', '.png', '.gif', '.svg']
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:

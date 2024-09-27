@@ -2,3 +2,5 @@
 .obsidian/*
 virtual/*
 site/*
+assets-large
+.resize-hash
