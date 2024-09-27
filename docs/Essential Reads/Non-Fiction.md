@@ -15,6 +15,7 @@ Link: [Amazon](https://a.co/d/8OQHTlj)
 Author: Jordan Peterson
 Link: [Amazon](https://a.co/d/1PKxCej)
 
+![[book - beyond order.jpg]]
 
 ### Can't Hurt Me
 
