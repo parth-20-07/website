@@ -4,9 +4,7 @@
 
 >Author: David Goggins
 
->Link: https://www.audible.com/pd/Cant-Hurt-Me-Audiobook/B07KKMNZCH?action_code=ASSGB149080119000H&share_location=pdp
-
->Genre: Self Help
+>Link: https://a.co/d/6WLKcCU
 
 ![[book - cant hurt me.png]]
 

@@ -4,9 +4,7 @@
  
 >Author: Jordan B. Peterson
 
->Link: https://www.audible.com/pd/12-Rules-for-Life-Audiobook/B0797YBP7N?action_code=ASSGB149080119000H&share_location=pdp
-
->Genre: Self Help
+>Link: https://a.co/d/fvNndF5
 
 ![[book - 12 rules for life.jpg]]
 ## Notes

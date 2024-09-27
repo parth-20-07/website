@@ -10,6 +10,12 @@ Link: [Amazon](https://a.co/d/8OQHTlj)
 
 ![[book - 12 rules for life.jpg]]
 
+### Beyond Order
+
+Author: Jordan Peterson
+Link: [Amazon](https://a.co/d/1PKxCej)
+
+
 ### Can't Hurt Me
 
 Author: David Goggins
