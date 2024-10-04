@@ -1,9 +1,17 @@
+---
+id: index
+aliases:
+  - C++ Programming Guide
+tags: []
+---
+
 # C++ Programming Guide
 
 ## Essentials
 
 ### Tools
 
+- [[Project Setup]]
 - [Debugging](Debugging.md)
 - [Testing](Testing.md)
 - [Static Analysis](Static%20Analysis.md)
