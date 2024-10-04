@@ -47,6 +47,12 @@
 
 - [ ] [Modern CMake for C++ - Second Edition: Effortlessly build cutting-edge C++ code and deliver high-quality solutions 2nd ed. Edition - Rafał Świdziński](https://a.co/d/2dUFQtA)
 
+### C Language
+
+#### Fundamentals
+
+- [ ] [Handmade Hero Complete](https://youtube.com/playlist?list=PLnuhp3Xd9PYTt6svyQPyRO_AAuMWGxPzU&si=YYCjR-SVJWjOCeFB)
+
 ### C++ Language
 
 #### Fundamentals
