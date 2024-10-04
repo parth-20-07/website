@@ -9,6 +9,9 @@
 - [ ] [OSS University](https://ossu.firebaseapp.com/#/)
 - [ ] [Compiler, OS, CN, DBMS Fundamentals in 1 Hour for Placements and Internship | Core CS Resources](https://www.youtube.com/watch?v=0u66_vNiRlo)
 
+## Low Level
+- [ ] [Crafting Interpreters - Robert Nystrom](https://a.co/d/4aL8nCK)
+
 ### Software Development
 
 - [ ] [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
