@@ -7,24 +7,16 @@ tags: []
 
 # Inventory Management System
 
-## Product Renders
+## Product Photos
 
-![[dm-1.png]]
-![[dm-2.png]]
-![[dm-3.png]]
+![[ims-1.png]]
+![[ims-2.png]]
+![[ims-3.png]]
 
-## Product Schematics
-
-![[dm-Schematic.png]]
-
-## Product Board Design
-
-![[dm-Top.png]]
-![[dm-Bottom.png]]
 
 > Project date: March, 2022
 
-> GitHub URL: [parth-20-07/Pocket-Dust-Monitor](https://github.com/parth-20-07/Pocket-Dust-Monitor)
+> GitHub URL: [parth-20-07/Inventory-Management-System](https://github.com/parth-20-07/Inventory-Management-System)
 
 ## Brief Introduction on Project
 
