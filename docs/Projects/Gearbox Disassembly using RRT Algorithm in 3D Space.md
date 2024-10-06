@@ -7,10 +7,21 @@ tags: []
 
 # Gearbox Disassembly using RRT Algorithm in 3D Space
 
+## Simulation
+### Setup
+![[gd-1.jpg]]
+
+### Motion
+![[gd-2.jpg]]
+![[gd-Animation.gif]]
+
+### Results
+![[gd-rrtNodes.png]]
+![[gd-rrtPath.png]]
 
 > Developed at: Worcester Polytechnic Institute
 
-> Project date: February, 2023
+> Project date: April, 2023
 
 > GitHub URL: [parth-20-07/Gearbox-Disassembly-using-RRT-Algorithm-in-3D-Space](https://github.com/parth-20-07/Gearbox-Disassembly-using-RRT-Algorithm-in-3D-Space)
 
