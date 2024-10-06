@@ -12,11 +12,9 @@ tags: []
 ![[bfs.gif]]
 
 ## DFS - Depth First Search
-
 ![[dfs.gif]]
 
 ## Djikstra Search
-
 ![[dij.gif]]
 
 > Developed at: Worcester Polytechnic Institute
