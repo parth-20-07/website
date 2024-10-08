@@ -432,6 +432,16 @@ Set the `lsp-zero`` to autoformat buffer on save to apply formatting on saving a
 
 You can either run `clang-tidy` manually or the `clangd` will automatically pick the `.clang-tidy` file from root of project and run it to the files on each buffer saves for linting and static analysis.
 
+### Build
+
+You can build the project by running:
+
+```bash
+inv build
+```
+
+This will save the build files in the folder `build/` and can be run from it.
+
 ## Resources
 - [ C++ Coding with Neovim - Prateek Raman - CppCon 2022 ](https://youtu.be/nzRnWUjGJl8?si=3F7oa7XSnhV21EYV)
 - [vcpkg Setup Guide](https://learn.microsoft.com/en-us/vcpkg/get_started/get-started?pivots=shell-bash)
