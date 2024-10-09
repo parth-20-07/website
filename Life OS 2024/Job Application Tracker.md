@@ -84,6 +84,14 @@
 - [ ] Boston Dynamics (Liana Tutt)
 - [ ] [http://www.apple.com/jobs/us/index.html](http://www.apple.com/jobs/us/index.html)
 - [x] https://www.medtronic.com/us-en/index.html
+- [ ] stealth startup
+- [ ] autosky aerospace pvt ltd
+- [ ] serve robotics
+- [ ] lucid motors
+- [ ] weave robotics
+- [ ] cariad
+- [ ] paladin
+- [ ] 
 - [ ] https://www.jobs.abbott/us/en
 - [ ] [http://bd.com/careers/](http://bd.com/careers/)
 - [ ] [http://www.bluerobotics.com/jobs/](http://www.bluerobotics.com/jobs/)
