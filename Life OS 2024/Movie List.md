@@ -26,6 +26,12 @@ tags: []
 ## Series
 
 - [ ] Taaza Khabar - BBKiVines
+- [ ] Raised by Wolves
+- [ ] 3 body problem
+- [ ] Avenue 5
+- [ ] Ultraman: Dad Core
 
 
 ## Anime
+
+- [ ] Parallel World Pharmacy
