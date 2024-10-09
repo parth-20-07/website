@@ -18,4 +18,14 @@ tags: []
 
 ### Hollywood
 
+#### Horror
 
+- [ ] Polaroid (2019)
+- [ ] The Skin I live in (2011)
+
+## Series
+
+- [ ] Taaza Khabar - BBKiVines
+
+
+## Anime
