@@ -14,7 +14,7 @@ tags: []
 #### Comedy
 
 - [ ] Khel Khel Mein
-- [ ] Good Newwz
+- [x] Good Newwz
 
 ### Hollywood
 
